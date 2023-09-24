@@ -15,7 +15,7 @@
 #include <vector>
 #include <string>
 
-#define F2d(X,A,B,C)  A*X*X+B*X+C   
+#define F2d(X,A,B,C)  (A*X*X+B*X+C)   
 
 using namespace std;
 
