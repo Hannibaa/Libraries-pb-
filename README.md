@@ -6,3 +6,4 @@ begin :
 3. add wchar_t chart photo.
 ---------------------------------------------------------------------------------
 1. modifies escap_code.h 
+2. add modification
